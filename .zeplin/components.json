@@ -1,0 +1,15 @@
+{
+    "plugins": [{ 
+        "name": "@zeplin/cli-connect-react-plugin",
+        "config": { 
+            "tsDocgen": "react-docgen-typescript" 
+        }
+    }],
+
+    "projects": ["62c69ee3c2df61144c1f09f0"],
+    "styleguides": [],
+    "components": [{
+        "path": "src/stories/Button.jsx",
+        "zeplinIds": ["62c6b63e9f12ba1bd789d872"]
+    }]
+}
